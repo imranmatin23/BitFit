@@ -6,9 +6,11 @@ BitFit was created as a project for the UCSD course CSE 110 "Software Engineerin
     <img  width="300" height="300" src="images/logo.png">
 </p>
 <p align="center">
-    <img  width="400" height="600" src="images/loginpage.png">
+    <img  width="300" height="600" src="images/loginpage.png">
 </p>
-![Your browser does not support the video tag.](images/demo.mov)
+<video width="320" height="240" controls>
+  <source src="images/demo.mov" type="video/mp4">
+</video>
 
 ## Introduction
 BitFit is a gamified iOS exercise app to assist users in achieving their fitness goals. During the time of COVID-19, exercising is extremely difficult without the motivation of friends and teammates to continue pushing your limits. In general, it is difficult to be motivated about exercising. BitFit is a fun and effective solution for users to conquer the obstacles they face when exercising. In the app, a user can select a target body part and BitFit will provide the user with a list of effective exercises for that body part! Once a user begins completing exercises, they will gain progress for specific body parts and also earn trophies for their hard work. Users can easily reflect on all of their previous exercises in the activity log as well. We believe that everyone is capable of achieving their fitness goals, and BitFit is the right tool to help you do that!
